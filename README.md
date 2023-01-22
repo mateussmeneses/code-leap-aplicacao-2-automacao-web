@@ -1,5 +1,7 @@
 # code-leap-aplicacao-2-automacao-web
 
+Lembre-se que a aplicação 2 deve estar rodando em localhost:3000 para o teste funcionar.
+
 ## Como executar
 
 ```
